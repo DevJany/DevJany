@@ -9,7 +9,7 @@
 - 🖥️ Tecnóloga em Análise e Desenvolvimento de Sistemas pela UEPB
 - 🎓 Graduanda em Engenharia de Software na UNINTER
 - 📚 Estudando: Java, Spring Boot, Python, Desenvolvimento Fullstack
-- 🌍 Entusiasta de novas tecnologias e boas práticas de desenvolvimento
+- 🌍 Explorando novas tecnologias e aplicando boas práticas de desenvolvimento
 - ❤️ Comprometida em construir soluções robustas e escaláveis, aliando teoria e prática para impactar positivamente a vida das pessoas através da tecnologia.
 
 
