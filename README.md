@@ -1,7 +1,21 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">🎇 Olá, eu sou a Jany!</h2>
+
+<p align="left">
+  Desenvolvedora em formação, apaixonada por criar soluções de software modernas, funcionais e com propósito. <br>
+  Atualmente, concentro meus estudos em <strong>Java</strong> com <strong>Spring Boot</strong>, sempre buscando transformar conhecimento teórico em aplicações reais e relevantes.
+</p>
+
+## 👩‍💻 Sobre mim
+- 🖥️ Tecnóloga em Análise e Desenvolvimento de Sistemas pela UEPB
+- 🎓 Graduanda em Engenharia de Software na UNINTER
+- 📚 Estudando: Java, Spring Boot, Python, Desenvolvimento Fullstack
+- 🌍 Entusiasta de novas tecnologias e boas práticas de desenvolvimento
+- ❤️ Comprometida em construir soluções robustas e escaláveis, aliando teoria e prática para impactar positivamente a vida das pessoas através da tecnologia.
+
+
 
 ###
-
+## ⭐ GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevJany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevJany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
